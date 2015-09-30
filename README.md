@@ -22,3 +22,6 @@ prompts, pop/push/shift/unshift (advanced,) and comparison operators
 
       *You should already have: functions, strings (propper grammar and spelling,) conditionals, booleans, variables, etc.
       
+5. Commit all changes, push and then submit a pull-request
+
+      
