@@ -14,6 +14,11 @@ This will be the repository for Start Coding Class - Survey of Coding's JS funda
 4. Create your adventure following these parameters:
       
       *Your project may have a similar theme, characters, etc., but must be significantly different than your previous version
+
       *It must have all of the features that your previous version had, in addition to new ones
-      *The new features are: arrays, switch statements, using one or more variable or an object, using objects (advanced,)              prompts, pop/push/shift/unshift (advanced,) and comparison operators
-      *You should already have: functions, strings (propper grammar and spelling,) conditionals, booleans, variables, etc. 
+      
+      *The new features are: arrays, switch statements, using one or more variable or an object, using objects (advanced,)   
+prompts, pop/push/shift/unshift (advanced,) and comparison operators
+
+      *You should already have: functions, strings (propper grammar and spelling,) conditionals, booleans, variables, etc.
+      
