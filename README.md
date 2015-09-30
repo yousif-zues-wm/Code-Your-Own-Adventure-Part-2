@@ -20,7 +20,7 @@ This will be the repository for Start Coding Class - Survey of Coding's JS funda
       *The new features are: arrays, switch statements, using one or more variable or an object, using objects (advanced,)   
 prompts, pop/push/shift/unshift (advanced,) and comparison operators
 
-      *You should already have: functions, strings (propper grammar and spelling,) conditionals, booleans, variables, etc.
+      *You should already have: functions, strings (proper grammar and spelling,) conditionals, booleans, variables, etc.
       
 5. Commit all changes, push and then submit a pull-request
 
