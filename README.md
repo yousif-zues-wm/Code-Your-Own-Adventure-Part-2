@@ -7,7 +7,7 @@ This will be the repository for Start Coding Class - Survey of Coding's JS funda
 
 1. Fork this repository and clone it down to your local machine
 
-2. Ensure that all of your files are correctly names in your directory (name your project the same as this repository)
+2. Ensure that all of your files are correctly named in your directory (name your project the same as this repository)
 
 3. Open Php Storm and create your .js file
 
